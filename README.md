@@ -17,7 +17,8 @@ Same as any other Blender Addon:
 4. Install & Enable the Addon
 
 ## How to use it
-Will make a video about how to use it soon.
 
+Here's a short video on how to use it.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OQ7OYSvf3Fk/0.jpg)](https://www.youtube.com/watch?v=OQ7OYSvf3Fk)
 
 
